@@ -2,8 +2,6 @@
 <img align="center" src="/img/banner.png" alt="moradii" height="" width="" />
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morad-labrid" alt="morad-labrid" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://morad-labrid.students-laplateforme.io/](https://morad-labrid.students-laplateforme.io/)
 
 - 💬 Ask me about **php, html, css, javascript, laravel, vuejs**
