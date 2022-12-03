@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **php, html, css, javascript, laravel, vuejs**
 
-- 📫 How to reach me **labrid.morad@gmail.com**
+- 📫 How to reach me **labrid.morad@hotmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
